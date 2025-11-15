@@ -10,8 +10,6 @@
 [![React Router](https://img.shields.io/badge/React_Router-7.8.2-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-7.3.1-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.7-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-2.10.10-7952B3?style=for-the-badge&logo=react&logoColor=white)](https://react-bootstrap.github.io/)
 [![Swiper](https://img.shields.io/badge/Swiper-12.0.1-6332F6?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/)
 [![React Icons](https://img.shields.io/badge/React_Icons-5.5.0-F7DF1E?style=for-the-badge&logo=react&logoColor=black)](https://react-icons.github.io/react-icons/)
 [![React Toastify](https://img.shields.io/badge/React_Toastify-11.0.5-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://fkhadra.github.io/react-toastify/)
